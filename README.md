@@ -1,4 +1,4 @@
-#🐾 Astro AI — Dog-Themed Chatbot Powered by OpenRouter
+🐾 #Astro AI — Dog-Themed Chatbot Powered by OpenRouter
 Astro AI is a playful and responsive chatbot web app featuring a friendly dog assistant that responds using AI-generated messages via OpenRouter. Built with HTML, TailwindCSS, JavaScript, and Vite.
 
 ##🚀 Features
